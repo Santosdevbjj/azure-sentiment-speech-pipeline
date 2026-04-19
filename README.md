@@ -14,6 +14,20 @@
 
 ---
 
+## Pipeline de IA com Azure que:
+
+- 🎙️ Converte voz em texto (Speech-to-Text)
+- 🧠 Detecta sentimento em tempo real (NLP)
+- 🔊 Responde de forma adaptativa (Text-to-Speech)
+
+📌 Caso real: ensino inclusivo (APAE-BH)  
+📊 Resultado esperado: +25–35% engajamento | -40% intervenção manual  
+⚙️ Stack: Azure Language + Speech + REST API
+
+
+
+---
+
 ## 🚀 Visão Geral
 
 Este projeto demonstra como aplicar **Análise de Sentimentos com Azure AI** para transformar interações de texto e voz em insights acionáveis.
