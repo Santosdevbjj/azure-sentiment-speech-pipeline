@@ -174,7 +174,7 @@ Interface com ícones grandes, cores contrastantes e interação prioritariament
 ## 📂 Estrutura do Repositório
 
 ```
-analiseSentimet_LanStuAz/
+azure-sentiment-speech-pipeline/
 ├── analiSentNegocio.md      # Aplicações de análise de sentimentos em negócios
 ├── analiseSentiment.md      # O que é análise de sentimentos com Azure Language Studio
 ├── azureMachLearn.md        # Visão geral do Azure Machine Learning
